@@ -10,4 +10,4 @@ Please review the test for examples.
 
 ***
 This is just a fork of the original project from the github user [mkorthuis](https://github.com/mkorthuis/sunnyportal-api).
-It is able to reuse the login session for currentProduction() and compatible with the homemanager product of SMA Solar. Just at plantType = 'homemanger' to the options object.  
+It is able to reuse the login session for currentProduction() and compatible with the homemanager product of SMA Solar. Add plantType = 'homemanger' to the options object.
